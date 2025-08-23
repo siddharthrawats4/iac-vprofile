@@ -11,6 +11,5 @@ variable "clusterName" {
 }
 
 #
--- siddharth
 #
 #
